@@ -10,4 +10,4 @@ Veřejné instalační balíčky aplikací MyTUYA Smart Dashboard. Webová aplik
 
 Releases pro LG mají tagy ve tvaru `webos-v1.0.0`. V části Assets stáhněte soubor `.ipk`, nikoli automaticky generovaný archiv Source code.
 
-Tento repozitář slouží k distribuci instalačních balíčků. První IPK bude dostupný po dokončení nastavení publikování a vydání prvního release.
+Tento repozitář slouží k distribuci instalačních balíčků. [První vydání pro LG webOS 1.0.0](https://github.com/macikm/mytuya-releases/releases/tag/webos-v1.0.0) je dostupné ke stažení.
